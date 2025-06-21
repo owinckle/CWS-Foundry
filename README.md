@@ -1,1 +1,2 @@
-# CWS-Foundry
+# CWS Foundry
+This project is a personal multi-agent system that automates the entire lifecycle of Chrome extensions — from idea generation and PRD creation, through code writing with Cursor + OpenCV automation, to automated testing using Puppeteer, packaging, and delivery. It leverages GPT for ideation and specification, pre-made templates, and a testing pipeline for reliable mass production of Chrome extensions with minimal manual effort. Perfect for scaling your own portfolio or holding company of extensions with maximum automation.
